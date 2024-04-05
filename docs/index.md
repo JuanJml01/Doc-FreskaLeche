@@ -2,24 +2,17 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+
 hero:
   name: "FreskaLeche"
-  text: "nothing"
-  tagline: My great project tagline
+  text: "Manual de administracion del servidor"
+  image:
+      src: https://media.gq.com.mx/photos/624f1761a16e9ddaa899cd19/16:9/w_2560%2Cc_limit/GettyImages-1325105287.jpg
+      alt: cr7
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Manual
+      link: /paso one.md
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
