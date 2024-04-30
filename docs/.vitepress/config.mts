@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "FreskaLeche",
   description: "nothing",
+  base: 'https://JuanJml01.github.io/Doc-FreskaLeche/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: './img/images.png',
